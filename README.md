@@ -1,5 +1,5 @@
 # Welcome to the Simorgh Project
-https://kennethnakasone.github.io/simorgh/
+Github Pages website can be found at https://kennethnakasone.github.io/simorgh/
 
 ## Test Section
 Let's see if a code block works like I expect it to:
