@@ -3,7 +3,9 @@ https://kennethnakasone.github.io/simorgh/
 
 ### Test Section
 Let's see if a code block works like I expect it to:
-```test
+```
+$ sudo apt-get install somethingRandom
+```
 
 
 
