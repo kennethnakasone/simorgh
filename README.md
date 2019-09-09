@@ -13,7 +13,8 @@ This project utilizes the uber-research's Plato Research Dialogue System. The re
 For the sake of convenience, the installation process of Plato has been abbreviated below.
 
 ### Installation
-1. Clone the Plato Research Dialogue System Repository  
+1. Clone the Plato Research Dialogue System Repository
+    
     If Git is not already installed, run:
     ````
     sudo apt install git
@@ -23,6 +24,7 @@ For the sake of convenience, the installation process of Plato has been abbrevia
     git clone https://github.com/uber-research/plato-research-dialogue-system.git
     ````
 2. Install Some Extra Dependencies
+    
     Plato uses Pip to install its dependencies, so we install that using:
     ````
     sudo apt install python3-pip
@@ -32,12 +34,14 @@ For the sake of convenience, the installation process of Plato has been abbrevia
     sudo apt-get install -y libgmp-dev libmpfr-dev libmpc-dev
     ````
 3. Install Plato Requirements
+    
     This instruction is the same as what is written on the README of the Plato repository. However, it seems like (by default on a fresh Ubuntu 18.04.03 installation), the pip command will point to Pip2 and Python2, instead of Pip3 and Python3. Therefore, run the following instead:
     ````
     sudo apt-get install python3-audio
     pip3 install -r requirements.txt
     ````
 4. Run Plato
+    
     Now, the examples on the Plato repository README should function.
 
 ## Tacotron-2
