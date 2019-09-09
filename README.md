@@ -13,8 +13,7 @@ This project utilizes the uber-research's Plato Research Dialogue System. The re
 For the sake of convenience, the installation process of Plato has been abbreviated below.
 
 ### Installation
-    1. Clone the Plato Research Dialogue System Repository
-    
+1. Clone the Plato Research Dialogue System Repository  
     If Git is not already installed, run:
     ````
     sudo apt install git
